@@ -61,3 +61,16 @@ collections:
     template: { name: Oscars, year: 2022 }
   Oscars 2023:
     template: { name: Oscars, year: 2023 }
+#created additional category trakt lists
+  Oscars Sound:
+    sort_title: '*Oscars Achievement in Sound'
+    trakt_list: https://trakt.tv/users/ckronengold/lists/oscar-sound-winners?sort=released,asc
+  Oscars Music:
+    sort_title: '*Oscars Best Score and/or Best Song'
+    trakt_list: https://trakt.tv/users/ckronengold/lists/oscars-music?sort=released,asc
+  Oscars Cinematography:
+    sort_title: '*Oscars Best Cinematography'
+    trakt_list: https://trakt.tv/users/ckronengold/lists/oscar-cinematography?sort=released,asc
+  Oscars Visual Effects:
+    sort_title: '*Oscars Visual Effects'
+    trakt_list: https://trakt.tv/users/ckronengold/lists/oscar-visual-effects?sort=released,asc
